@@ -1,6 +1,8 @@
 # Crypto.ba | Rxc.ba 
+## Explorers
 - rxcinfo.crypto.ba 
 - explorer.crypto.ba/insight
+## Info
 
 - RuxCrypto RXC is DASH fork, Crypto.ba community project.
 
