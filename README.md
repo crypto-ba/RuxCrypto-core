@@ -1,40 +1,31 @@
-===========================
+# Crypto.ba | Rxc.ba | rxcinfo.crypto.ba | explorer.crypto.ba/insight
 
-Crypto.ba
+- RuxCrypto RXC is DASH fork, Crypto.ba community project.
 
-rxc.crypto.ba
+- Algorithm X11
 
-RuxCrypto RXC is DASH fork, Crypto.ba community project.
+- Block type Proof-of-Work
 
-Algorithm X11
+- Coin name RuxCrypto
 
-Block type Proof-of-Work
+- Coin abbreviation RXC
 
-Coin name RuxCrypto
+- Address letter R
 
-Coin abbreviation RXC
+- Coin unit rux
 
-Address letter R
+- RPC port 23505
 
-Coin unit rux
+- P2P port 23506
 
-RPC port 23505
+- Block reward 45 coins
 
-P2P port 23506
+- Super block cycle 8760
 
-Block reward 45 coins
+- Block halving 210.000 blocks
 
-Super block cycle 8760
-
-Block halving 210.000 blocks
-
-Coin supply 21.000.000 coins
+- Coin supply 21.000.000 coins
 
 
 
-Contributors
 
-Rux
-rux@crypto.ba
-
-===========================
